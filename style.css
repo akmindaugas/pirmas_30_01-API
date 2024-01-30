@@ -1,0 +1,17 @@
+#wrapper{
+
+    border: 2px solid red;
+}
+.currencyCard{
+    border: solid 6px green;
+    background-color: burlywood;
+}
+
+.gold{
+    border: solid 6px gold;
+
+}
+.silver{
+    border: solid 6px silver;
+  
+}
